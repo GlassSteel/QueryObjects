@@ -1,0 +1,14 @@
+{
+	"name": "glasteel/QueryObjects",
+	"description": "Housekeeping class report and other moderatly complex SQL, to avoid over-fattened model classes.",
+    "authors": [
+        {
+            "name": "Paul Glass-Steel",
+            "email": "paul_gs@unc.edu"
+        }
+    ],
+    "autoload": {
+        "files": ["QueryBase.php"]
+    }
+}
+
